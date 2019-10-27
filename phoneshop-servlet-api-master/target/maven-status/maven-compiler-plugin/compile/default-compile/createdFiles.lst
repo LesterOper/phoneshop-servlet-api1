@@ -1,0 +1,4 @@
+com\es\phoneshop\model\product\ProductDao.class
+com\es\phoneshop\model\product\ArrayListProductDao.class
+com\es\phoneshop\web\ProductListPageServlet.class
+com\es\phoneshop\model\product\Product.class
